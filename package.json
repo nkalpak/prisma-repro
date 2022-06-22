@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "start": "ts-node --esm src/main.ts"
+    "start": "node src/main.js"
   },
   "devDependencies": {
     "typescript": "^4.5.4",
